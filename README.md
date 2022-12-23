@@ -1,4 +1,5 @@
 👩‍💻👨‍💻 About Me:
+
 🔭 I’m currently working on develop my node.js (express) skills<br>🌱 I’m currently learning backend web development and databases<br>💬 Ask me about front-end development (React.js), web design (Figma, adobe xd))<br>⚡ Fun fact that I love the errors in the code because somehow they make me improve
 
 
